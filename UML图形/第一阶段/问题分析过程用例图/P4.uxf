@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>160</x>
+      <y>310</y>
+      <w>500</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>lt=.
+解决方案边界</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>260</x>
+      <y>380</y>
+      <w>290</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>活动信息发布系统</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>480</x>
+      <y>160</y>
+      <w>80</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>普通学生</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>460</x>
+      <y>250</y>
+      <w>210</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+ 标记想要参加的活动，系
+ 统在活动开始前进行提醒</panel_attributes>
+    <additional_attributes>10.0;130.0;60.0;10.0</additional_attributes>
+  </element>
+</diagram>
