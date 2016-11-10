@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>620</x>
-      <y>0</y>
+      <x>260</x>
+      <y>30</y>
       <w>80</w>
       <h>110</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>860</x>
-      <y>40</y>
+      <x>500</x>
+      <y>70</y>
       <w>100</w>
       <h>30</h>
     </coordinates>
@@ -27,8 +27,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>650</x>
-      <y>150</y>
+      <x>290</x>
+      <y>180</y>
       <w>20</w>
       <h>1030</h>
     </coordinates>
@@ -39,8 +39,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>650</x>
-      <y>90</y>
+      <x>290</x>
+      <y>120</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -50,8 +50,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>900</x>
-      <y>60</y>
+      <x>540</x>
+      <y>90</y>
       <w>30</w>
       <h>100</h>
     </coordinates>
@@ -61,8 +61,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>900</x>
-      <y>140</y>
+      <x>540</x>
+      <y>170</y>
       <w>20</w>
       <h>1040</h>
     </coordinates>
@@ -73,8 +73,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>650</x>
-      <y>1170</y>
+      <x>290</x>
+      <y>1200</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -84,8 +84,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>900</x>
-      <y>1170</y>
+      <x>540</x>
+      <y>1200</y>
       <w>30</w>
       <h>100</h>
     </coordinates>
@@ -95,8 +95,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>190</y>
+      <x>300</x>
+      <y>220</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -107,8 +107,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>240</y>
+      <x>300</x>
+      <y>270</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -119,60 +119,60 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>520</x>
-      <y>310</y>
+      <x>160</x>
+      <y>340</y>
       <w>570</w>
       <h>800</h>
     </coordinates>
     <panel_attributes>alt
+halign=left
 --
+
+-.
 [修改密码]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [修改头像]
+
+
+
+
+
+
+
+
+
 -.
-
-
-
-
-
-
-
-
-
-[修改兴趣]
--.</panel_attributes>
+[修改兴趣]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>370</y>
+      <x>300</x>
+      <y>400</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -183,8 +183,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>400</y>
+      <x>300</x>
+      <y>430</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -195,8 +195,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>430</y>
+      <x>300</x>
+      <y>480</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -207,20 +207,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>550</y>
-      <w>260</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-要求输入新密码</panel_attributes>
-    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>660</x>
-      <y>580</y>
+      <x>300</x>
+      <y>610</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -231,8 +219,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>610</y>
+      <x>300</x>
+      <y>650</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -243,8 +231,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>640</y>
+      <x>300</x>
+      <y>690</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -255,8 +243,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>1130</y>
+      <x>300</x>
+      <y>1160</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
@@ -267,7 +255,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
+      <x>300</x>
       <y>800</y>
       <w>260</w>
       <h>40</h>
@@ -279,7 +267,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
+      <x>300</x>
       <y>840</y>
       <w>260</w>
       <h>40</h>
@@ -291,7 +279,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
+      <x>300</x>
       <y>880</y>
       <w>260</w>
       <h>40</h>
@@ -301,17 +289,77 @@ bg=red</panel_attributes>
     <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
   </element>
   <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>990</y>
+      <w>260</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;
+请求修改兴趣</panel_attributes>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>1030</y>
+      <w>260</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+要求选择兴趣</panel_attributes>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>1070</y>
+      <w>260</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;
+重新选择兴趣</panel_attributes>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>570</x>
-      <y>480</y>
+      <x>50</x>
+      <y>0</y>
+      <w>750</w>
+      <h>1290</h>
+    </coordinates>
+    <panel_attributes>sd 个人信息管理</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>730</y>
+      <w>260</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+密码修改结果</panel_attributes>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>210</x>
+      <y>470</y>
       <w>450</w>
-      <h>230</h>
+      <h>110</h>
     </coordinates>
     <panel_attributes>loop
+halign=left
 --
-【两次密码不一致】
--.
+[原密码不正确]
+
 
 
 
@@ -323,37 +371,13 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>960</y>
-      <w>260</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;
-请求修改兴趣</panel_attributes>
-    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>660</x>
-      <y>1000</y>
+      <x>300</x>
+      <y>530</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-要求选择兴趣</panel_attributes>
-    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>660</x>
-      <y>1040</y>
-      <w>260</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=-&gt;&gt;
-重新选择兴趣</panel_attributes>
+验证原密码</panel_attributes>
     <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
   </element>
 </diagram>

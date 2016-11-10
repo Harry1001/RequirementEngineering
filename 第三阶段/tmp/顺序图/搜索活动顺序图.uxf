@@ -2,33 +2,10 @@
 <diagram program="umlet" version="14.2">
   <zoom_level>10</zoom_level>
   <element>
-    <id>UMLFrame</id>
-    <coordinates>
-      <x>110</x>
-      <y>170</y>
-      <w>400</w>
-      <h>580</h>
-    </coordinates>
-    <panel_attributes>sd 搜索活动</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>160</x>
-      <y>260</y>
-      <w>100</w>
-      <h>30</h>
-    </coordinates>
-    <panel_attributes>用户
-bg=orange</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>350</x>
-      <y>260</y>
+      <x>320</x>
+      <y>130</y>
       <w>100</w>
       <h>30</h>
     </coordinates>
@@ -39,21 +16,21 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
-      <y>280</y>
+      <x>170</x>
+      <y>180</y>
       <w>30</w>
-      <h>100</h>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>200</x>
-      <y>360</y>
+      <x>170</x>
+      <y>230</y>
       <w>20</w>
-      <h>280</h>
+      <h>260</h>
     </coordinates>
     <panel_attributes>
 bg=yellow</panel_attributes>
@@ -62,8 +39,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
-      <y>360</y>
+      <x>180</x>
+      <y>230</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -74,21 +51,21 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>390</x>
-      <y>280</y>
+      <x>360</x>
+      <y>150</y>
       <w>30</w>
-      <h>120</h>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>390</x>
-      <y>380</y>
+      <x>360</x>
+      <y>230</y>
       <w>20</w>
-      <h>170</h>
+      <h>260</h>
     </coordinates>
     <panel_attributes>
 bg=red</panel_attributes>
@@ -97,19 +74,19 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>390</x>
-      <y>540</y>
+      <x>360</x>
+      <y>480</y>
       <w>30</w>
-      <h>90</h>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
-      <y>530</y>
+      <x>180</x>
+      <y>400</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -120,19 +97,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>200</x>
-      <y>630</y>
-      <w>30</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>210</x>
-      <y>400</y>
+      <x>180</x>
+      <y>270</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
@@ -143,13 +109,46 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>210</x>
-      <y>490</y>
+      <x>180</x>
+      <y>360</y>
       <w>200</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;
 输入关键词</panel_attributes>
     <additional_attributes>10.0;20.0;180.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>130</x>
+      <y>90</y>
+      <w>100</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>未/已登录用户</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>80</x>
+      <y>40</y>
+      <w>380</w>
+      <h>530</h>
+    </coordinates>
+    <panel_attributes>sd 搜索活动</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>170</x>
+      <y>480</y>
+      <w>30</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
 </diagram>
