@@ -50,14 +50,14 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>242</x>
+      <x>231</x>
       <y>154</y>
-      <w>242</w>
+      <w>253</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 审核活动</panel_attributes>
-    <additional_attributes>200.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>210.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -76,7 +76,7 @@ bg=yellow</panel_attributes>
     <coordinates>
       <x>66</x>
       <y>242</y>
-      <w>1122</w>
+      <w>1320</w>
       <h>1133</h>
     </coordinates>
     <panel_attributes>loop
@@ -114,7 +114,7 @@ halign=left
     <coordinates>
       <x>143</x>
       <y>396</y>
-      <w>979</w>
+      <w>935</w>
       <h>231</h>
     </coordinates>
     <panel_attributes>opt</panel_attributes>
@@ -137,7 +137,7 @@ halign=left
     <coordinates>
       <x>143</x>
       <y>671</y>
-      <w>979</w>
+      <w>935</w>
       <h>561</h>
     </coordinates>
     <panel_attributes>alt
@@ -256,10 +256,10 @@ bg=red</panel_attributes>
       <x>462</x>
       <y>231</y>
       <w>33</w>
-      <h>1023</h>
+      <h>693</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;910.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;610.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -369,7 +369,7 @@ bg=red</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>924</x>
-      <y>913</y>
+      <y>891</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -381,7 +381,7 @@ bg=red</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>968</x>
-      <y>935</y>
+      <y>913</y>
       <w>33</w>
       <h>55</h>
     </coordinates>
@@ -392,9 +392,9 @@ bg=red</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>968</x>
-      <y>968</y>
+      <y>946</y>
       <w>22</w>
-      <h>66</h>
+      <h>88</h>
     </coordinates>
     <panel_attributes>
 bg=red</panel_attributes>
@@ -416,25 +416,13 @@ bg=red</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>638</x>
-      <y>913</y>
+      <y>891</y>
       <w>308</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-创建</panel_attributes>
+创建活动被删除消息</panel_attributes>
     <additional_attributes>260.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>638</x>
-      <y>979</y>
-      <w>352</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-删除消息</panel_attributes>
-    <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -566,12 +554,196 @@ bg=red</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>242</x>
-      <y>1155</y>
+      <y>1177</y>
       <w>407</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 忽略成功</panel_attributes>
     <additional_attributes>10.0;20.0;350.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>462</x>
+      <y>902</y>
+      <w>22</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>462</x>
+      <y>979</y>
+      <w>33</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>473</x>
+      <y>946</y>
+      <w>176</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+更新举报列表</panel_attributes>
+    <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>462</x>
+      <y>1111</y>
+      <w>22</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>473</x>
+      <y>1122</y>
+      <w>176</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+更新举报列表</panel_attributes>
+    <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>462</x>
+      <y>1166</y>
+      <w>33</w>
+      <h>165</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>1078</x>
+      <y>748</y>
+      <w>154</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>标记对应活动的用户</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1144</x>
+      <y>847</y>
+      <w>33</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>1144</x>
+      <y>891</y>
+      <w>22</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>979</x>
+      <y>946</y>
+      <w>187</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+活动被删除通知</panel_attributes>
+    <additional_attributes>150.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>979</x>
+      <y>1001</y>
+      <w>330</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+活动被删除通知</panel_attributes>
+    <additional_attributes>280.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1144</x>
+      <y>990</y>
+      <w>33</w>
+      <h>165</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>1254</x>
+      <y>748</y>
+      <w>88</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>活动发布者</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1287</x>
+      <y>847</y>
+      <w>33</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>1287</x>
+      <y>902</y>
+      <w>22</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1287</x>
+      <y>1034</y>
+      <w>33</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
   </element>
 </diagram>

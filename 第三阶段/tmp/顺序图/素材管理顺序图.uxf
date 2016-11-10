@@ -4,7 +4,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>380</x>
+      <x>390</x>
       <y>20</y>
       <w>80</w>
       <h>110</h>
@@ -16,7 +16,7 @@ layer=-1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
+      <x>690</x>
       <y>60</y>
       <w>100</w>
       <h>30</h>
@@ -28,7 +28,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>410</x>
+      <x>420</x>
       <y>170</y>
       <w>20</w>
       <h>1570</h>
@@ -41,7 +41,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
+      <x>420</x>
       <y>120</y>
       <w>30</w>
       <h>70</h>
@@ -53,7 +53,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>80</y>
       <w>30</w>
       <h>110</h>
@@ -66,7 +66,7 @@ layer=0</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>170</y>
       <w>20</w>
       <h>280</h>
@@ -79,7 +79,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>190</y>
       <w>320</w>
       <h>30</h>
@@ -90,7 +90,7 @@ bg=red</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>540</x>
+      <x>550</x>
       <y>170</y>
       <w>100</w>
       <h>30</h>
@@ -102,7 +102,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>210</y>
       <w>320</w>
       <h>40</h>
@@ -114,7 +114,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>340</y>
       <w>320</w>
       <h>40</h>
@@ -126,7 +126,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>370</y>
       <w>320</w>
       <h>40</h>
@@ -138,7 +138,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>330</x>
+      <x>340</x>
       <y>410</y>
       <w>510</w>
       <h>270</h>
@@ -149,7 +149,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>450</y>
       <w>270</w>
       <h>40</h>
@@ -161,7 +161,7 @@ style=wordwrap</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>670</x>
+      <x>680</x>
       <y>450</y>
       <w>110</w>
       <h>70</h>
@@ -174,18 +174,19 @@ style=wordwrap</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>490</y>
       <w>270</w>
-      <h>30</h>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;250.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;.
+编辑完成</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>520</y>
       <w>20</w>
       <h>240</h>
@@ -198,7 +199,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>760</y>
       <w>270</w>
       <h>40</h>
@@ -210,7 +211,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>670</x>
+      <x>680</x>
       <y>760</y>
       <w>110</w>
       <h>70</h>
@@ -223,18 +224,19 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>800</y>
+      <x>430</x>
+      <y>790</y>
       <w>270</w>
-      <h>30</h>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;250.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;.
+编辑完成</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>830</y>
       <w>20</w>
       <h>170</h>
@@ -247,7 +249,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>300</x>
+      <x>310</x>
       <y>280</y>
       <w>570</w>
       <h>1370</h>
@@ -315,7 +317,7 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>570</y>
       <w>320</w>
       <h>40</h>
@@ -327,7 +329,7 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>600</y>
       <w>320</w>
       <h>40</h>
@@ -339,7 +341,7 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>830</y>
       <w>320</w>
       <h>40</h>
@@ -351,7 +353,7 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>870</y>
       <w>320</w>
       <h>40</h>
@@ -363,7 +365,7 @@ halign=left
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>670</x>
+      <x>680</x>
       <y>1000</y>
       <w>110</w>
       <h>70</h>
@@ -376,7 +378,7 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>1000</y>
       <w>270</w>
       <h>40</h>
@@ -388,18 +390,19 @@ halign=left
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>1040</y>
       <w>270</w>
-      <h>30</h>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;250.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;.
+新建完成</panel_attributes>
+    <additional_attributes>10.0;20.0;250.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>1070</y>
       <w>20</w>
       <h>670</h>
@@ -412,43 +415,46 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>360</x>
-      <y>1170</y>
+      <x>370</x>
+      <y>1150</y>
       <w>440</w>
-      <h>140</h>
+      <h>160</h>
     </coordinates>
-    <panel_attributes>loop</panel_attributes>
+    <panel_attributes>loop
+halign=left
+--
+[还有需要选定的素材]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>1210</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
+    <panel_attributes>lt=&lt;-
 选择要删除的素材</panel_attributes>
     <additional_attributes>300.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
+      <x>430</x>
       <y>1240</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-修改成功</panel_attributes>
+mark</panel_attributes>
     <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>1320</y>
+      <x>430</x>
+      <y>1380</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
@@ -459,8 +465,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>1360</y>
+      <x>430</x>
+      <y>1420</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
@@ -471,19 +477,32 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>360</x>
-      <y>1430</y>
+      <x>370</x>
+      <y>1320</y>
       <w>440</w>
-      <h>180</h>
+      <h>290</h>
     </coordinates>
-    <panel_attributes>opt</panel_attributes>
+    <panel_attributes>alt
+halign=left
+--
+
+-.
+[确认删除]
+
+
+
+
+
+
+-.
+[取消删除]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>1460</y>
+      <x>430</x>
+      <y>1510</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
@@ -494,8 +513,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>1510</y>
+      <x>430</x>
+      <y>1560</y>
       <w>320</w>
       <h>40</h>
     </coordinates>
@@ -506,7 +525,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
+      <x>420</x>
       <y>1730</y>
       <w>30</w>
       <h>70</h>
@@ -518,7 +537,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>720</x>
+      <x>730</x>
       <y>1730</y>
       <w>30</w>
       <h>70</h>
@@ -530,7 +549,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>190</x>
+      <x>200</x>
       <y>0</y>
       <w>770</w>
       <h>1790</h>

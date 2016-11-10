@@ -13,23 +13,6 @@
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>660</x>
-      <y>160</y>
-      <w>180</w>
-      <h>110</h>
-    </coordinates>
-    <panel_attributes>用户登录
---
-
-
-
-valign=top
-</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>UMLSpecialState</id>
     <coordinates>
       <x>300</x>
@@ -49,7 +32,7 @@ valign=top
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-【开始举报】</panel_attributes>
+开始举报</panel_attributes>
     <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
   </element>
   <element>
@@ -61,19 +44,19 @@ valign=top
       <h>150</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-【用户未登录】</panel_attributes>
-    <additional_attributes>10.0;130.0;130.0;10.0</additional_attributes>
+用户未登录</panel_attributes>
+    <additional_attributes>10.0;130.0;150.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>530</x>
       <y>330</y>
-      <w>170</w>
+      <w>150</w>
       <h>140</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-【用户已登录】</panel_attributes>
+用户已登录</panel_attributes>
     <additional_attributes>10.0;10.0;120.0;120.0</additional_attributes>
   </element>
   <element>
@@ -96,7 +79,7 @@ valign=top
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-【提交】</panel_attributes>
+提交</panel_attributes>
     <additional_attributes>10.0;20.0;180.0;20.0</additional_attributes>
   </element>
   <element>
@@ -115,11 +98,11 @@ valign=top
     <coordinates>
       <x>690</x>
       <y>460</y>
-      <w>70</w>
+      <w>50</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=-&gt;
-【取消】</panel_attributes>
+取消</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -149,11 +132,22 @@ valign=top
     <coordinates>
       <x>480</x>
       <y>180</y>
-      <w>200</w>
+      <w>220</w>
       <h>160</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-【登陆完成】</panel_attributes>
-    <additional_attributes>10.0;140.0;10.0;10.0;180.0;10.0</additional_attributes>
+登陆完成</panel_attributes>
+    <additional_attributes>10.0;140.0;10.0;10.0;200.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>680</x>
+      <y>180</y>
+      <w>100</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>用户登录</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

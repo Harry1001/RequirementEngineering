@@ -9,7 +9,7 @@
       <w>670</w>
       <h>550</h>
     </coordinates>
-    <panel_attributes>活动</panel_attributes>
+    <panel_attributes>stm活动</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -32,7 +32,7 @@
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[创建活动]</panel_attributes>
+创建活动</panel_attributes>
     <additional_attributes>100.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -51,11 +51,11 @@
     <coordinates>
       <x>250</x>
       <y>150</y>
-      <w>60</w>
+      <w>30</w>
       <h>190</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[发布]</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;170.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -78,7 +78,7 @@
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[取消发布]</panel_attributes>
+取消发布</panel_attributes>
     <additional_attributes>170.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -101,31 +101,20 @@
       <h>200</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[删除]</panel_attributes>
+删除</panel_attributes>
     <additional_attributes>220.0;10.0;10.0;180.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>120</x>
-      <y>320</y>
-      <w>110</w>
-      <h>30</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>160</x>
       <y>310</y>
-      <w>50</w>
-      <h>30</h>
+      <w>110</w>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>[修改]
-style=wordwrap</panel_attributes>
-    <additional_attributes/>
+    <panel_attributes>lt=&lt;-
+修改</panel_attributes>
+    <additional_attributes>10.0;20.0;90.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -136,7 +125,7 @@ style=wordwrap</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[被举报]</panel_attributes>
+被举报</panel_attributes>
     <additional_attributes>170.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -155,11 +144,11 @@ style=wordwrap</panel_attributes>
     <coordinates>
       <x>510</x>
       <y>150</y>
-      <w>160</w>
+      <w>130</w>
       <h>190</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-删除[审核不符合要求]</panel_attributes>
+[审核不符合要求]</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
   </element>
   <element>
@@ -261,7 +250,31 @@ style=wordwrap</panel_attributes>
       <w>90</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>[确认/取消]
+    <panel_attributes>确认/取消
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>100</x>
+      <y>230</y>
+      <w>170</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>[活动必填信息正确填写]
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>210</x>
+      <y>210</y>
+      <w>50</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>发布
 style=wordwrap</panel_attributes>
     <additional_attributes/>
   </element>

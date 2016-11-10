@@ -123,10 +123,28 @@ bg=red</panel_attributes>
     <coordinates>
       <x>250</x>
       <y>220</y>
-      <w>490</w>
-      <h>420</h>
+      <w>540</w>
+      <h>470</h>
     </coordinates>
-    <panel_attributes>par</panel_attributes>
+    <panel_attributes>par
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-.</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -155,7 +173,7 @@ bg=red</panel_attributes>
     <id>UMLFrame</id>
     <coordinates>
       <x>280</x>
-      <y>480</y>
+      <y>530</y>
       <w>430</w>
       <h>130</h>
     </coordinates>
@@ -169,24 +187,13 @@ halign=left
     <id>Relation</id>
     <coordinates>
       <x>370</x>
-      <y>530</y>
+      <y>580</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 结束举报</panel_attributes>
     <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>240</x>
-      <y>440</y>
-      <w>520</w>
-      <h>30</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>500.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLFrame</id>
@@ -198,5 +205,17 @@ halign=left
     </coordinates>
     <panel_attributes>sd 举报活动</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>620</x>
+      <y>420</y>
+      <w>170</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+更新举报列表</panel_attributes>
+    <additional_attributes>10.0;70.0;70.0;70.0;70.0;10.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>

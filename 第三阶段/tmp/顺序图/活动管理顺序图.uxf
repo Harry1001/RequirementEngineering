@@ -221,21 +221,9 @@ halign=left
       <w>320</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
+    <panel_attributes>lt=&lt;-
 编辑活动信息</panel_attributes>
     <additional_attributes>300.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>360</x>
-      <y>650</y>
-      <w>320</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-</panel_attributes>
-    <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -282,7 +270,7 @@ halign=left
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-</panel_attributes>
+等待编辑和发布</panel_attributes>
     <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
   <element>
@@ -294,7 +282,7 @@ halign=left
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-发布活动</panel_attributes>
+编辑并发布活动</panel_attributes>
     <additional_attributes>300.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -320,7 +308,7 @@ halign=left
     <panel_attributes>loop
 halign=left
 --
-[还要需要删除的活动]
+[还有需要删除的活动]
 
 
 
@@ -350,7 +338,7 @@ halign=left
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-
+mark
 </panel_attributes>
     <additional_attributes>10.0;20.0;300.0;20.0</additional_attributes>
   </element>
